@@ -30,7 +30,7 @@ function prevSlide() {
     renderSlide();
 }
 
-setInterval(nextSlide, 3000);
+// setInterval(nextSlide, 3000);
 renderSlide();
 
 const btnNext = document.querySelector('.product-carousel__btn-next');
